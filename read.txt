@@ -1,0 +1,26 @@
+name
+father name
+mother name
+contact
+email
+education
+dob
+gender
+address
+password
+
+user
+1.contact
+2.email
+3.password
+
+student
+1.id
+user_id
+3.name
+4.mother name
+5.father name
+6.education
+7.dob
+8.gender
+9.address
